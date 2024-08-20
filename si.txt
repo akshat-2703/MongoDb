@@ -1,0 +1,8 @@
+mongodb installation 
+mongodb connection
+schema 
+model 
+crud
+//cread read update delete mongodb s related mongoose s krne wala jo bhi code hoga wo async ho hoga
+//as the data as we send that by the createuser in that _id,_v that created as in that _id as basically of 24 char ,12 byte
+//as we seen lot of people creating timestamp in mongodb what is _id suruhut ke 3 byte(means 6 char) y btata h ki timestamp kya h means batat h kitne bjke kitne minute p y particular user banaya gya tha it means aapko alg s kbhi alg s timestamp nhi bnana rhega as exactly aa 3 char decidea that what time it is actually made 
